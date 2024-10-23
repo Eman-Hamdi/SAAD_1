@@ -5,5 +5,5 @@ int main()
 {
 
 cout <<"This is git\n";
-cout <<"Git is fun\n";
+cout <<"Git is fun edited by master\n";
 }
